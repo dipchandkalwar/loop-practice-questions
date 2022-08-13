@@ -1,4 +1,5 @@
-/*#include<stdio.h>
+//print the number 0 to n if n is given by the user by while loop
+#include<stdio.h>
 int main(){
 int n;
 printf("enter the value of n:");
@@ -9,7 +10,10 @@ while(i<=n){
 	i++;
 }
 return 0;
-}*/
+}
+
+
+//print the number 0 to n if n is given by the user by for loop
 #include<stdio.h>
 int main(){
     int i;
