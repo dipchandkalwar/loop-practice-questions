@@ -16,6 +16,7 @@ int main(){
 	return 0;
 }
 
+
 // print the table  input by the user
 	#include<stdio.h>
 int main(){
@@ -28,7 +29,9 @@ int main(){
 	    printf("the value is %d \n",n*i);
 	}
 	return 0;
-}*/
+}
+
+
 //enter the number until the user enter the odd number
 #include<stdio.h>
 int main(){
@@ -44,9 +47,9 @@ int main(){
     }while (1); //every time the condition is true
     printf("stop");
     return 0;
-}*/
+}
 
-/*keep taking a number until the user give the multiple of 7
+//keep taking a number until the user give the multiple of 7
 
 #include<stdio.h>
 int main(){
@@ -64,7 +67,8 @@ int main(){
     printf("stop");
     return 0;
 }
-*/
+
+
 //print all the number from 1 to 10 except 6
 #include<stdio.h>
 int main(){
